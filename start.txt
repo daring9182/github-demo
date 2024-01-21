@@ -1,2 +1,4 @@
 Test git quick start demo
 stash demo
+stash for tracked files
+
